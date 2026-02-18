@@ -4,7 +4,7 @@
 <div align="center">
  
 ## <span style="color: #4CAF50;">🌟 Hey there! I'm Adam Johnson, currently building @Django and @Openclaw.  
-## <span style="color: #4CAF50;">🌟 I am going to create a coin on base, my twitter is @Coltonvucas 0xA3302F40D11Bb4BA78E5A3bc8Ac4aDf24efB6Ba3 
+## <span style="color: #4CAF50;">🌟 I am going to create a coin on base, my twitter is @Coltonvucas 
 
 <span style="color: #FF5733;">
 ### <span style="color: #2196F3;">👨‍💻<p align="center">
