@@ -4,10 +4,9 @@
 <div align="center">
  
 ## <span style="color: #4CAF50;">🌟 Hey there! I'm Adam Johnson, currently building @Django and @Openclaw.  
-Donations are greatly appericiated 
+## <span style="color: #4CAF50;">🌟 I am going live on pumpfun, all the revenue generated from this coin will go towards funding my project at @Django, @Openclaw has nothing to do with any of this I will post the ca here once ready.  
 
-BTC - bc1q63g6adp27m0a5nlfa85aade7ucuklxp2x2l4ep
-SOLANA - G8MnpaCKeFHQaMdeXopopciEidLaShJstW1poDveGQLv <span style="color: #FF5733;">
+<span style="color: #FF5733;">
 ### <span style="color: #2196F3;">👨‍💻<p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&center=true&vCenter=true&width=435&lines=Frontend+Developer;Code.+Design.+Build.;Let%E2%80%99s+walk+and+work+together+%F0%9F%91%A9%E2%80%8D%F0%9F%92%BB" alt="Typing SVG" />
 </p></span>  
